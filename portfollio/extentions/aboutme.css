@@ -1,0 +1,46 @@
+body{
+	background-color: #be82ff;
+}
+
+.banner-h1{
+	font-size: 60px;
+	padding-top: 80px;
+	padding-bottom: 100px;
+	color: gray;
+}
+
+.banner-div{
+	background-color: #c1ccdd;
+}
+
+.header-h2{
+	color: white;
+}
+
+.menu-ul{
+	top: 0;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: none;
+}
+
+.link-li{
+	text-align: center;
+	display: block;
+	text-decoration: none;
+	float: left;
+}
+
+.link-li:hover{
+	opacity: 0.5;
+}
+
+.paragraph-ul{
+	background-color: transparent;
+	color: white;
+	list-style-type: none;
+	overflow: hidden;
+	float: left;
+}

@@ -1,0 +1,41 @@
+body{
+	background-color: #f8ff82;
+	color: gray;
+}
+
+.banner-h1{
+	font-size: 60px;
+	padding-top: 80px;
+	padding-bottom: 100px;
+	color: gray;
+}
+
+.banner-div{
+	background-color: #c7d1db;
+}
+
+.menu-ul{
+	top: 0;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: none;
+}
+
+.link-li{
+	text-align: center;
+	display: block;
+	text-decoration: none;
+	float: left;
+}
+
+.link-li:hover{
+	opacity: 0.5;
+}
+
+img{
+	height: 300px;
+	width: 225px;
+	padding-bottom: 15px;
+}
